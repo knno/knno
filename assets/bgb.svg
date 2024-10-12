@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Author: github.com/knno
+-->
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="fo" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="white" stop-opacity="1"/>
+            <stop offset="100%" stop-color="white" stop-opacity="0"/>
+        </linearGradient>
+        <line id="hline" x1="0" y1="50" x2="800" y2="50" stroke-width="1">
+            <animateTransform
+                attributeName="transform"
+                attributeType="XML"
+                type="translate"
+                by="0 -50"
+                dur="1"
+                repeatCount="indefinite"
+            />
+        </line>
+        <g id="ls" fill="#ffffff">
+            <line x1="0" y1="0" x2="92" y2="300" stroke-width="1" stroke="url(#fo)"/>
+            <line x1="100" y1="0" x2="169" y2="300" stroke-width="1" stroke="url(#fo)"/>
+            <line x1="200" y1="0" x2="251" y2="300" stroke-width="1" stroke="url(#fo)"/>
+            <line x1="300" y1="0" x2="328" y2="300" stroke-width="1" stroke="url(#fo)"/>
+            <line x1="400" y1="0" x2="400.1" y2="300" stroke-width="1" stroke="url(#fo)"/>
+            <line x1="500" y1="0" x2="477" y2="300" stroke-width="1" stroke="url(#fo)"/>
+            <line x1="600" y1="0" x2="554" y2="300" stroke-width="1" stroke="url(#fo)"/>
+            <line x1="700" y1="0" x2="631" y2="300" stroke-width="1" stroke="url(#fo)"/>
+            <line x1="800" y1="0" x2="708" y2="300" stroke-width="1" stroke="url(#fo)"/>
+        </g>
+    </defs>
+    <g transform="rotate(180)" transform-origin="center" id="t">
+        <g id="v">
+            <use href="#ls" />
+        </g>
+        <g id="th">
+            <use href="#hline" y="-25" stroke="white"/>
+            <use href="#hline" y="25" stroke="white"/>
+            <use href="#hline" y="75" stroke="white"/>
+            <use href="#hline" y="125" stroke="white" />
+            <use href="#hline" y="175" stroke="#fffa"/>
+            <use href="#hline" y="225" stroke="#fff6" />
+            <use href="#hline" y="275" stroke="#fff2"/>
+        </g>
+    </g>
+</svg>
