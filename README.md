@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile.
 
-I'm currently working on a video game.
+I'm currently working on a few projects.
 
 How to reach me:
 - Discord
