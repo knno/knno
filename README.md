@@ -16,10 +16,10 @@ How to reach me:
 ---
 
 <pre align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╷&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-─━━━━┳━─&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;─━┳━━━━─
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗━━━━━┙&nbsp;&nbsp;╵&nbsp;&nbsp;┕━━━━━┛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              ╷              
+─━━━━┳━─  •   ┃   •  ─━┳━━━━─
+     ┃        ┃        ┃     
+     ┗━━━━━┙  ╵  ┕━━━━━┛     
 
 <a title="Visit Website" href="https://kenanmasri.com/">Click here to visit my website!</a>
 </pre>
