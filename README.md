@@ -16,13 +16,13 @@ How to reach me:
 ---
 
 <pre align="center">
-              ╷              
-─━━━━┳━─  •   ┃   •  ─━┳━━━━─
-     ┃        ┃        ┃     
-     ┗━━━━━┙  ╵  ┕━━━━━┛     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╷&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+─━━━━┳━─&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;─━┳━━━━─
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗━━━━━┙&nbsp;&nbsp;╵&nbsp;&nbsp;┕━━━━━┛&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a title="Visit Website" href="https://kenanmasri.com/">Click here to visit my website!</a>
-</code></pre>
+</pre>
 
 <!--
 **knno/knno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
