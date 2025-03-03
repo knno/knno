@@ -13,16 +13,18 @@ How to reach me:
 
 ![](/assets/bgb.svg)
 
----
+<!--
+
+Lame stuff:
 
 <pre align="center">
               ╷              
 ─━━━━┳━─  •   ┃   •  ─━┳━━━━─
      ┃        ┃        ┃     
      ┗━━━━━┙  ╵  ┕━━━━━┛     
-
-<a title="Visit Website" href="https://kenanmasri.com/">Click here to visit my website!</a>
 </pre>
+
+-->
 
 <!--
 **knno/knno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
