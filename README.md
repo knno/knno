@@ -2,13 +2,11 @@
 
 <div align="center"><h1 align="center"><b>Hello</b></h1></div>
 
-Welcome to my GitHub profile.
+Just a guy, working on a few projects here.
 
-I'm currently working on a few projects.
-
-How to reach me:
-- Discord
-- Website
+Reach me on:
+- Discord: **knno**
+- Website: *Under maintenance*
 
 
 ![](/assets/bgb.svg)
