@@ -1,13 +1,9 @@
 ![](/assets/bgt.svg)
 
-<div align="center"><h1 align="center"><b>Hello</b></h1></div>
+<div align="center"><h1 align="center"><b>Just a dude.</b></h1></div>
 
-Just a guy, working on a few projects here.
-
-Reach me on:
 - Discord: **knno**
 - Website: *Under maintenance*
-
 
 ![](/assets/bgb.svg)
 
