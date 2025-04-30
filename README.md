@@ -1,9 +1,10 @@
 ![](/assets/bgt.svg)
 
-<div align="center"><h1 align="center"><b>Just a dude.</b></h1></div>
+<div align="center"><h1 align="center"><b>Hi!</b></h1></div>
 
-- Discord: **knno**
-- Website: *Under maintenance*
+- Name: Kenan
+- Website: https://kenanmasri.com/
+- I'm currently working on a video game using GameMaker. Looking for collaborators
 
 ![](/assets/bgb.svg)
 
