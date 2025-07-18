@@ -8,8 +8,8 @@
   - A video game using GameMaker
 - 📫 How to reach me:
   - discord **knno**
-  - email: hi@kenanmasri.com
-  - website: https://kenanmasri.com
+  - email: kenanmasri@outlook.com
+  - website: soon
 
 ![](/assets/bgb.svg)
 
