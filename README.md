@@ -1,3 +1,8 @@
+Just a guy.
+Human rights are important.
+
+<!--
+
 ![](/assets/bgt.svg)
 
 <div align="center"><h1 align="center"><b>Hi! I'm Kenan!</b></h1></div>
@@ -95,3 +100,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
