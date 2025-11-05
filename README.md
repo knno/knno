@@ -1,20 +1,14 @@
-Just a guy.
-Human rights are important.
-
-<!--
-
 ![](/assets/bgt.svg)
 
 <div align="center"><h1 align="center"><b>Hi! I'm Kenan!</b></h1></div>
 
 - 🔭 I’m actively working on multiple things.
-- 🌱 I’m currently learning about maintaining tech development
+- 🌱 I’m currently learning about cars and other topics that interest me.
 - 👯 I’m looking to collaborate on:
   - A video game using GameMaker
 - 📫 How to reach me:
   - discord **knno**
-  - email: kenanmasri@outlook.com
-  - website: soon
+  - website: https://kenanmasri.com
 
 ![](/assets/bgb.svg)
 
@@ -24,15 +18,16 @@ Human rights are important.
 
 1)	One of the top 250 students of One Million Arab Coders.
 2)	Made more than 12 video games on Windows and Android platform using GameMaker.
-3)	Made 8 video games on Android platform alone.
+3)	Made 8 video games on Android.
 4)	Made a few software programs for production, such as Fire Image Editor.
 5)	More than 150,000 downloads of my Camera Mod for GTA San Andreas.
 6)	3LM language and its e3lm cli tool, hosted with GitHub and Python Package Index.
+7)  Community-based voluntary work for dental health awareness.
 
 ### Other fields I worked on
 
-- Dentistry
-- Design, Art
+- Dentistry, Orthodontics
+- Design, Art, Programming
 - Engineering
 - Cars (Automotive)
 - Gaming
