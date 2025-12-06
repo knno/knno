@@ -1,13 +1,13 @@
 ![](/assets/bgt.svg)
 
-<div align="center">▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒　★　★　★　░░░░░░░░░░░░░░░</div>
+<div align="center">▒▒▒▒▒▒▒▒▒▒　★　★　★　░░░░░░░░░░</div>
 <div align="center"><h1 align="center"><b>Hi! I'm Kenan!</b></h1></div>
 
 - 🔭 I’m actively working on multiple things, mostly GameMaker projects.
 - 🌱 I’m currently learning about cars and many topics that interest me.
 - 📫 How to reach me: discord **knno**
 
-<div align="center">▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒　★　★　★　░░░░░░░░░░░░░░░</div>
+<div align="center">▒▒▒▒▒▒▒▒▒▒　★　★　★　░░░░░░░░░░</div>
 
 ![](/assets/bgb.svg)
 
