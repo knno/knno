@@ -13,9 +13,9 @@
 
 ---
 
+<!--
 ## Notable Achievements
 
-<!--
 1)	Being able to be awake daily.
 1)	One of the top 250 students of One Million Arab Coders.
 2)	Made more than 12 video games on Windows and Android platform using GameMaker.
