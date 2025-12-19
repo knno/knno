@@ -1,10 +1,10 @@
 ![](/assets/bgt.svg)
 
 <div align="center">▒▒▒▒▒▒▒▒▒▒　★　★　★　░░░░░░░░░░</div>
-<div align="center"><h1 align="center"><b>Hi! I'm Kenan!</b></h1></div>
+<div align="center"><h1 align="center"><b>Hi!</b></h1></div>
 
-- 🔭 I’m actively working on multiple things, mostly GameMaker projects.
-- 🌱 I’m currently learning about cars and many topics that interest me.
+- 🔭 I’m actively working on multiple things.
+- 🌱 I’m currently learning about things that interest me.
 - 📫 How to reach me: discord **knno**
 
 <div align="center">▒▒▒▒▒▒▒▒▒▒　★　★　★　░░░░░░░░░░</div>
@@ -15,6 +15,8 @@
 
 ## Notable Achievements
 
+<!--
+1)	Being able to be awake daily.
 1)	One of the top 250 students of One Million Arab Coders.
 2)	Made more than 12 video games on Windows and Android platform using GameMaker.
 3)	Made 8 video games on Android.
@@ -22,8 +24,9 @@
 5)	More than 150,000 downloads of my Camera Mod for GTA San Andreas.
 6)	3LM language and its e3lm cli tool, hosted with GitHub and Python Package Index.
 7)  Community-based voluntary work for dental health awareness.
+there are much more important stuff, these are just things i did
 
-### Other fields I worked on
+### Current
 
 - Dentistry, Orthodontics
 - Design, Art, Programming
@@ -66,6 +69,7 @@
 - To the people and teams at GitHub, Microsoft, Udacity, and all companies I worked with.
 - To my friends in discord, To GameMaker team, To developers who do their best.
 - To Damascus University. and to my family and friends.
+-->
 
 <!--
 
