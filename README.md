@@ -5,7 +5,6 @@
 
 - 🔭 I’m actively working on multiple things.
 - 🌱 I’m currently learning about things that interest me.
-- 📫 How to reach me: discord **knno**
 <!-- kenanmasri at outlook dot com -->
 
 <div align="center">▒▒▒▒▒▒▒▒▒▒　★　★　★　░░░░░░░░░░</div>
