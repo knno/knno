@@ -5,7 +5,7 @@
 <div align="center"><h1 align="center"><b>Hi!</b></h1></div>
 
 - 🔭 I’m actively working on:
-  - [**Vehemence RPG**](gamejolt.com/)
+  - [**Vehemence RPG**](https://gamejolt.com/games/vehemence/612891)
   - My Website, company, and other things...
 - 🌱 I’m currently studying management
 - 👯 I’m looking to work/collaborate on:
