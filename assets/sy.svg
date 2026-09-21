@@ -2,9 +2,9 @@
 <!--
     Author: github.com/knno
 -->
-<svg viewBox="0 0 314 20" width="314" height="20" xmlns="http://www.w3.org/2000/svg">
-    <style>.top{font-size:16px;fill:#007A3D;}.mid-stars{font-size:16px;fill:#CE1126;}.mid-bg{font-size:16px;fill:#FFFFFF55;}.bottom{font-size:16px;fill: #000000;}</style>
-    <text x="0" y="16" font-size="16" font-family="monospace" letter-spacing="0">
-        <tspan class="top">▒▒▒▒▒▒▒▒▒▒▒▒</tspan><tspan class="mid-bg" dx="0">░░░░░░░░░░░░</tspan><tspan class="mid-stars" dx="-104px">　★　★　★　</tspan><tspan class="bottom" dx="0">▒▒▒▒▒▒▒▒▒▒▒▒</tspan>
+<svg viewBox="0 0 397 20" width="397" height="20" xmlns="http://www.w3.org/2000/svg">
+    <style>.top{fill:#007A3D;}.mid-stars{fill:#CE1126;}.mid-bg{fill:#FFFFFFA4;}.bottom{fill: #000000;}</style>
+    <text x="0" y="16" font-size="18" font-family="monospace" letter-spacing="0">
+        <tspan class="top">▒▒▒▒▒▒▒▒▒▒▒▒</tspan><tspan class="mid-bg" dx="0">░░░░░░░░░░░░░░░░</tspan><tspan class="mid-stars" dx="-153px">　　★　★　★　　</tspan><tspan class="bottom" dx="0">▒▒▒▒▒▒▒▒▒▒▒▒</tspan>
     </text>
 </svg>

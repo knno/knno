@@ -15,6 +15,8 @@
   - Email: info@kenanmasri.com
   - Website: https://kenanmasri.com
 
+<br>
+
 <div align="center"><img src="./assets/sy.svg" alt="" /></div>
 
 ![](./assets/bgb.svg)
