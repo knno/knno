@@ -35,23 +35,17 @@
 
 ### Favourite Fields
 
-<table>
-    <tr>
-        <td>Automotive</td><td></td>
-    </tr>
-    <tr>
-        <td>Design, Art, Coding, Modelling</td><td></td>
-    </tr>
-    <tr>
-        <td>Dentistry/Orthodontics</td><td></td>
-    </tr>
-    <tr>
-        <td>Engineering</td><td></td>
-    </tr>
-    <tr>
-        <td>Gaming</td><td></td>
-    </tr>
-</table>
+| &nbsp;&nbsp;                   | &nbsp;&nbsp;                  |
+| ------------------------------ | ----------------------------- |
+| Automotive                     | ![](./assets/car.svg)         |
+| Design, Art, Coding, Modelling | ![](./assets/hobbies.svg)     |
+| Dentistry/Orthodontics         | ![](./assets/tooth.svg)       |
+| Engineering                    | ![](./assets/engineering.svg) |
+| Gaming                         | ![](./assets/game.svg)        |
+
+---
+
+## Tools and Skills
 
 <table>
   <tr>
@@ -79,11 +73,11 @@
   <td><a title="Webpack" href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a></td>
   <td><a title="Windows 11" href="https://windows.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows 11" width="40" height="40"/> </a></td>
   <td><a title="Visual Studio Code" href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a></td>
-  <td><a title="Android Studio" href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> </a></td>
+  <td><a title="Android Studio" href="https://developer.android.com/studio" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> </a></td>
   </tr>
   <tr>
   <td><a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a></td>
-  <td><a title="Blender" href="https://blender.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a></td>
+  <td><a title="Materialize CSS" href="https://materializecss.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materializecss/materializecss-original.svg" alt="materializecss" width="40" height="40"/> </a></td>
   <td><a title="Adobe Photoshop" href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a></td>
   <td><a title="Postman" href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></td>
   <td colspan="3" align="center"><sub>Eager to learn more ^^</sub></td>
