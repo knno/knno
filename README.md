@@ -7,7 +7,7 @@
 - 🔭 I’m actively working on:
   - [**Vehemence RPG**](https://gamejolt.com/games/vehemence/612891)
   - My Website, company, and other things...
-- 🌱 I’m currently studying management
+- 🌱 I’m currently studying **Business Administration**
 - 👯 I’m looking to work/collaborate on:
   - GameMaker projects
 - 📫 How to reach me:
@@ -31,19 +31,19 @@
 - Made a few software programs for production, such as Fire Image Editor.
 - More than 150,000 downloads of my Camera Mod for GTA San Andreas.
 - 3LM language and its e3lm cli tool, hosted with GitHub and Python Package Index.
-- ImGM (Implemented in *[GameMaker](https://gamemaker.io) by YoYo Games*)
+- ImGM (Dear ImGui wrapper for GameMaker)
 
 ### Favourite Fields
 
 <table>
     <tr>
-        <td>Cars (Automotive)</td><td></td>
+        <td>Automotive</td><td></td>
     </tr>
     <tr>
         <td>Design, Art, Coding, Modelling</td><td></td>
     </tr>
     <tr>
-        <td>Dentistry</td><td></td>
+        <td>Dentistry/Orthodontics</td><td></td>
     </tr>
     <tr>
         <td>Engineering</td><td></td>
@@ -73,6 +73,15 @@
   <td><a title="Nginx" href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></td>
   </tr>
   <tr>
+  <td><a title="GitHub" href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a></td>
+  <td><a title="Blender" href="https://blender.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a></td>
+  <td><a title="Cloudflare" href="https://cloudflare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/> </a></td>
+  <td><a title="Webpack" href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a></td>
+  <td><a title="Windows 11" href="https://windows.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows 11" width="40" height="40"/> </a></td>
+  <td><a title="Visual Studio Code" href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a></td>
+  <td><a title="Android Studio" href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
   <td><a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a></td>
   <td><a title="Blender" href="https://blender.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a></td>
   <td><a title="Adobe Photoshop" href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a></td>
@@ -82,12 +91,6 @@
 </table>
 
 ---
-
-## Special Thanks
-
-- To the people and teams at GitHub, Microsoft, Udacity, and all companies I worked with.
-- To my friends in discord, To GameMaker team, To developers who do their best.
-- To Damascus University. and to my family and friends.
 
 <!--
 1) For sy.svg without colors:
